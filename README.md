@@ -52,7 +52,7 @@ NeuroSense also helps reduce mental health stigma by making monitoring seamless 
 ## Contact
 
 For questions or collaboration, please contact:  
-Girish Arora
-Viren Sharma
-Kartik Khandelwal
+- Girish Arora
+- Viren Sharma
+- Kartik Khandelwal
 
