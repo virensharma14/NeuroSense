@@ -46,11 +46,6 @@ NeuroSense also helps reduce mental health stigma by making monitoring seamless 
 - 1 × INA128 (or equivalent instrumentation amplifier)  
 - OpAmps and passive components for band-pass filtering  
 
----
-
-## License
-
-*(Add your preferred license here, e.g., MIT License)*
 
 ---
 
