@@ -44,7 +44,7 @@ NeuroSense also helps reduce mental health stigma by making monitoring seamless 
 - EEG Electrodes  
 - 1 × SD Card  
 - 1 × INA128 (or equivalent instrumentation amplifier)  
-- OpAmps and passive components for band-pass filtering  
+- OpAmps and passive components for Power line filtering and low pass filtering.  
 
 
 ---
